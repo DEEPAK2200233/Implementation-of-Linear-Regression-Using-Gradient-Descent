@@ -1,9 +1,9 @@
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
+# EX.NO.3-Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
-## Equipments Required:
+## Equipments Required:3-
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
